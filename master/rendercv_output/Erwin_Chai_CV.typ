@@ -95,7 +95,7 @@
 
 == Profile
 
-Analytical and results-driven Senior Analyst with proven expertise in leveraging data to deliver actionable insights and support strategic decision. Skilled in credit model analytics, data-driven problem solving and ability to explain complex ideas to stakeholders of various backgrounds. Adept at diving into complex data and synthesize findings into clear and impactful recommendations that enhance customer engagement and team performance.
+Analytical and results-driven Senior Analyst with proven expertise in leveraging data to deliver actionable insights and support strategic decision-making. Skilled in credit model analytics, data-driven problem-solving, and translating complex technical concepts for stakeholders across all levels. Adept at synthesizing large datasets into clear, impactful recommendations that drive business outcomes and enhance organizational performance.
 
 == Experience
 
@@ -103,13 +103,13 @@ Analytical and results-driven Senior Analyst with proven expertise in leveraging
   [
     #strong[Commonwealth Bank of Australia], Senior Analyst | Credit Model Analytics
 
-    - Utilized SAS to monitor performance of IFRS9 and Capital Models across all retail products (totalling \~ \$110 billion AUD worth of exposures) ensuring models are fit for purpose for model users.
+    - Monitor and validate IFRS9 and Capital Models across all retail products (\$110B+ AUD in exposures), ensuring model integrity and regulatory compliance.
 
-    - Provided timely and thorough responses to internal and external stakeholder queries, demonstrating strong regulatory understanding and proactive compliance approach.
+    - Deliver comprehensive analysis and timely responses to internal and external stakeholder inquiries, demonstrating strong regulatory acumen and proactive compliance.
 
-    - Devised and implemented processes and procedures to streamline operations.
+    - Streamlined operational processes, improving efficiency and consistency across model monitoring workflows.
 
-    - Underwent inter-team development and helped Bankwest Data Science team develop data quality assurance processes using Python.
+    - Collaborated with Data Science team to develop and implement data quality assurance procedures using Python, enhancing model validation processes.
 
   ],
   [
@@ -126,11 +126,11 @@ Analytical and results-driven Senior Analyst with proven expertise in leveraging
   [
     #strong[Commonwealth Bank of Australia], Analyst | Retail Credit Strategy Assurance
 
-    - Leveraged technology-driven tools (Teradata SQL, Excel, R) to perform data analysis, effectively monitoring and managing credit risks.
+    - Analyze credit strategy proposals using Teradata SQL, Excel, and R to assess risk profiles and ensure appropriate risk controls.
 
-    - Evaluated credit strategy proposals to ensure additional risks taken on board are aptly controlled.
+    - Performed comprehensive data analysis to monitor and manage credit risks across the retail portfolio.
 
-    - Assisted in effectively communicating results and contributed to the writing of unsecured board paper, ensuring informed decision-making process are made by stakeholders.
+    - Contributed to board-level communications, translating complex technical findings into actionable business recommendations for senior stakeholders.
 
   ],
   [
@@ -147,11 +147,11 @@ Analytical and results-driven Senior Analyst with proven expertise in leveraging
   [
     #strong[Curtin University], Research Assistant
 
-    - Assisted research focused on analyzing linguistic differences in communication between pro-vaccine and anti-vaccine users on Twitter, contributing to a better understanding of public health discourse.
+    - Conducted linguistic analysis of pro-vaccine and anti-vaccine discourse on Twitter, contributing to public health research.
 
-    - Manipulated data using R and created interactive R Shiny dashboards, enhancing data exploration for stakeholders and streamlining insight-generation processes.
+    - Developed interactive R Shiny dashboards for stakeholders, accelerating data exploration and insight generation.
 
-    - Effectively communicated research findings to internal stakeholders.
+    - Presented research findings to internal stakeholders, effectively communicating complex analytical results.
 
   ],
   [
@@ -170,11 +170,9 @@ Analytical and results-driven Senior Analyst with proven expertise in leveraging
   [
     #strong[Curtin University], Bachelor of Science - Actuarial Science
 
-    - Course Weighted Average
+    - Course Weighted Average (88.30)
 
-      - 88.30
-
-    - President of Curtin Consulting Group, a student-ran consultancy that provide solutions to local not for profits
+    - President of Curtin Consulting Group, a student-led consultancy providing strategic solutions to local not-for-profit organizations
 
   ],
   [

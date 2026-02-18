@@ -3,14 +3,14 @@ cv:
   headline:
   location: Perth, WA
   email: tz3yong@gmail.com
-  phone: "+61415731811"
+  phone: "+61 415 731 811"
   website:
   social_networks:
     - network: LinkedIn
       username: erwin-chai-788bb7189
   sections:
     profile:
-      - Analytical and results-driven Senior Analyst with proven expertise in leveraging data to deliver actionable insights and support strategic decision. Skilled in credit model analytics, data-driven problem solving and ability to explain complex ideas to stakeholders of various backgrounds. Adept at diving into complex data and synthesize findings into clear and impactful recommendations that enhance customer engagement and team performance.
+      - Analytical and results-driven Senior Analyst with proven expertise in leveraging data to deliver actionable insights and support strategic decision-making. Skilled in credit model analytics, data-driven problem-solving, and translating complex technical concepts for stakeholders across all levels. Adept at synthesizing large datasets into clear, impactful recommendations that drive business outcomes and enhance organizational performance.
     
     experience:
       - company: Commonwealth Bank of Australia
@@ -19,10 +19,10 @@ cv:
         end_date: present
         location: Perth, WA
         highlights:
-          - Utilized SAS to monitor performance of IFRS9 and Capital Models across all retail products (totalling ~ $110 billion AUD worth of exposures) ensuring models are fit for purpose for model users.
-          - Provided timely and thorough responses to internal and external stakeholder queries, demonstrating strong regulatory understanding and proactive compliance approach.
-          - Devised and implemented processes and procedures to streamline operations.
-          - Underwent inter-team development and helped Bankwest Data Science team develop data quality assurance processes using Python.
+          - Monitor and validate IFRS9 and Capital Models across all retail products ($110B+ AUD in exposures), ensuring model integrity and regulatory compliance.
+          - Deliver comprehensive analysis and timely responses to internal and external stakeholder inquiries, demonstrating strong regulatory acumen and proactive compliance.
+          - Streamlined operational processes, improving efficiency and consistency across model monitoring workflows.
+          - Collaborated with Data Science team to develop and implement data quality assurance procedures using Python, enhancing model validation processes.
       
       - company: Commonwealth Bank of Australia
         position: Analyst | Retail Credit Strategy Assurance
@@ -30,9 +30,9 @@ cv:
         end_date: 2023-12
         location: Perth, WA
         highlights:
-          - Leveraged technology-driven tools (Teradata SQL, Excel, R) to perform data analysis, effectively monitoring and managing credit risks.
-          - Evaluated credit strategy proposals to ensure additional risks taken on board are aptly controlled.
-          - Assisted in effectively communicating results and contributed to the writing of unsecured board paper, ensuring informed decision-making process are made by stakeholders.
+          - Analyze credit strategy proposals using Teradata SQL, Excel, and R to assess risk profiles and ensure appropriate risk controls.
+          - Performed comprehensive data analysis to monitor and manage credit risks across the retail portfolio.
+          - Contributed to board-level communications, translating complex technical findings into actionable business recommendations for senior stakeholders.
       
       - company: Curtin University
         position: Research Assistant
@@ -40,9 +40,9 @@ cv:
         end_date: 2022-05
         location: Perth, WA
         highlights:
-          - Assisted research focused on analyzing linguistic differences in communication between pro-vaccine and anti-vaccine users on Twitter, contributing to a better understanding of public health discourse.
-          - Manipulated data using R and created interactive R Shiny dashboards, enhancing data exploration for stakeholders and streamlining insight-generation processes.
-          - Effectively communicated research findings to internal stakeholders.
+          - Conducted linguistic analysis of pro-vaccine and anti-vaccine discourse on Twitter, contributing to public health research.
+          - Developed interactive R Shiny dashboards for stakeholders, accelerating data exploration and insight generation.
+          - Presented research findings to internal stakeholders, effectively communicating complex analytical results.
     
     education:
       - institution: Curtin University
@@ -51,8 +51,8 @@ cv:
         end_date: 2022-06
         location: Perth, WA
         highlights:
-          - Course Weighted Average - 88.30
-          - President of Curtin Consulting Group, a student-ran consultancy that provide solutions to local not for profits
+          - Course Weighted Average (88.30)
+          - President of Curtin Consulting Group, a student-led consultancy providing strategic solutions to local not-for-profit organizations
     
     skills:
       - label: Technical Skills
