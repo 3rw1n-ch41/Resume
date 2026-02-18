@@ -7,3 +7,4 @@ This repository holds Erwin's resume and aims to provide a version controlled en
 * 0.1
     * Initial Release
 
+## Folder structure
