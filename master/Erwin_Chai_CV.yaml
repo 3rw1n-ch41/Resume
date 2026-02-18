@@ -10,7 +10,7 @@ cv:
       username: erwin-chai-788bb7189
   sections:
     profile:
-      - Analytical and results-driven Senior Analyst with proven expertise in leveraging data to deliver actionable insights and support strategic decision-making. Skilled in credit model analytics, data-driven problem-solving, and translating complex technical concepts for stakeholders across all levels. Adept at synthesizing large datasets into clear, impactful recommendations that drive business outcomes and enhance organizational performance.
+      - Analytical and results-driven Senior Analyst with proven expertise in leveraging data to deliver actionable insights and support strategic decision-making. Skilled in credit model analytics, data-driven problem-solving, and translating complex technical concepts for stakeholders across all levels. Adept at synthesising large datasets into clear, impactful recommendations that drive business outcomes and enhance organisational performance.
     
     experience:
       - company: Commonwealth Bank of Australia
@@ -20,7 +20,7 @@ cv:
         location: Perth, WA
         highlights:
           - Monitor and validate IFRS9 and Capital Models across all retail products ($110B+ AUD in exposures), ensuring model integrity and regulatory compliance.
-          - Deliver comprehensive analysis and timely responses to internal and external stakeholder inquiries, demonstrating strong regulatory acumen and proactive compliance.
+          - Deliver comprehensive analysis and timely responses to internal and external stakeholder enquiries, demonstrating strong regulatory acumen and proactive compliance.
           - Streamlined operational processes, improving efficiency and consistency across model monitoring workflows.
           - Collaborated with Data Science team to develop and implement data quality assurance procedures using Python, enhancing model validation processes.
       
@@ -30,7 +30,7 @@ cv:
         end_date: 2023-12
         location: Perth, WA
         highlights:
-          - Analyze credit strategy proposals using Teradata SQL, Excel, and R to assess risk profiles and ensure appropriate risk controls.
+          - Analysed credit strategy proposals using Teradata SQL, Excel, and R to assess risk profiles and ensure appropriate risk controls.
           - Performed comprehensive data analysis to monitor and manage credit risks across the retail portfolio.
           - Contributed to board-level communications, translating complex technical findings into actionable business recommendations for senior stakeholders.
       
@@ -51,8 +51,8 @@ cv:
         end_date: 2022-06
         location: Perth, WA
         highlights:
-          - Course Weighted Average (88.30)
-          - President of Curtin Consulting Group, a student-led consultancy providing strategic solutions to local not-for-profit organizations
+          - Course Weighted Average: 88.30
+          - President of Curtin Consulting Group, a student-led consultancy providing strategic solutions to local not-for-profit organisations
     
     skills:
       - label: Technical Skills
